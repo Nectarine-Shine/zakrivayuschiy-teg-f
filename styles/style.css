@@ -84,6 +84,7 @@
   border: none;
   transition: border 0.3s ease;
   padding: 0;
+  max-height: 38px;
 }
 
 .card__like-button {
